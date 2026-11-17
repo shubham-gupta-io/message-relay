@@ -1,0 +1,30 @@
+# Build output
+target/
+dependency-reduced-pom.xml
+
+# Runtime data & logs
+data/
+*.log
+*.log.tmp
+
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# Eclipse
+.classpath
+.project
+.settings/
+bin/
+
+# VS Code
+.vscode/
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# Prompt & Exercise files
+*.pdf
+Webex_Engineering_Technical_Exercise.pdf
